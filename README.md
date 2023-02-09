@@ -8,6 +8,11 @@ for any questions feel free to DM me on Discord @ Korivash#0001
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korivash&theme=dark&show_icons=true)
 
 
+ ## 💰 Korivash Donation Page
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/koirvash) 
+</p>
+
+
 <!--
 **Korivash/Korivash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
