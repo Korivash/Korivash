@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -13,3 +22,42 @@
   <a href="https://github.com/Korivash/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Korivash Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Korivash1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#716](https://github.com/Korivash/custom-icon-badges/pull/716) in [Korivash/custom-icon-badges](https://github.com/Korivash/custom-icon-badges)
+2. 🎉 Merged PR [#98](https://github.com/Korivash/table2ascii/pull/98) in [Korivash/table2ascii](https://github.com/Korivash/table2ascii)
+3. 🎉 Merged PR [#99](https://github.com/Korivash/table2ascii/pull/99) in [Korivash/table2ascii](https://github.com/Korivash/table2ascii)
+4. 🗣 Commented on [#448](https://github.com/Korivash/github-readme-streak-stats/issues/448) in [Korivash/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. ❗️ Closed issue [#448](https://github.com/Korivash/github-readme-streak-stats/issues/448) in [Korivash/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!--END_SECTION:activity-->
