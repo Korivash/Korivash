@@ -7,9 +7,10 @@ other then that most my projects are FiveM Related but i have expanded into disc
 👉 My current repositories are private as i co-dev with people.
 <p align="center">
 👉 Public repositories will be coming soon as i work on them and feel comfortable releasing them in a professional matter.
-<p align="center">
 
 <p align="center">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korivash&theme=dark&show_icons=true)
 
 <p align="center">
