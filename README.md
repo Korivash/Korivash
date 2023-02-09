@@ -2,7 +2,9 @@
  👨‍💻 Korivash - Discord: Korivash#0001
 <p align="center">
 👉 My name is Korivash and I am a small time self taught developer, I also do video editing on the side and upload them to my Youtube channel.
-other then that most my projects are FiveM related but I have expanded into Discord bots and more, I am always willing to learn new things or hunt down bugs, you can contact me on discord for a fast response if needed.
+Other then that most my projects are FiveM related but I have expanded into Discord bots and more. I am always willing to learn new things or hunt down bugs. 
+<p align="center">
+👉You can contact me on discord for a fast response if needed.
 <p align="center">
 👉 My current repositories are private as my projects consist of multiple developers and I am still learning.
 <p align="center">
