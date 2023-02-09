@@ -1,3 +1,4 @@
+<p align="center">
 ### 🥇 Korivash - Discord: Korivash#0001
 <p align="center">
 👉 My Name is Korivash and i am a small time self taught developer, I also do video editing on the side and upload them to my youtube channel.
@@ -6,12 +7,12 @@ other then that most my projects are FiveM Related but i have expanded into disc
 👉 My current repositories are private as i co-dev with people.
 <p align="center">
 👉 Public repositories will be coming soon as i work on them and feel comfortable releasing them in a professional matter.
-
+<p align="center">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korivash&theme=dark&show_icons=true)
 
-
+<p align="center">
  ## 💰 Korivash Donation Page
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/koirvash) 
 </p>
