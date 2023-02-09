@@ -1,6 +1,28 @@
+<p align="center">
+ 👨‍💻 Korivash - Discord: Korivash#0001
+<p align="center">
+👉 My name is Korivash and I am a small time self taught developer, I also do video editing on the side and upload them to my Youtube channel.
+Other then that most my projects are FiveM related but I have expanded into Discord bots and more. I am always willing to learn new things or hunt down bugs. 
+<p align="center">
+👉You can contact me on Discord for a fast response if needed.
+ 
+
+<p align="center">
+👉 My current repositories are private as my projects consist of multiple developers and I am still learning.
 
 
 
+<p align="center">
+👉 Public repositories will be coming soon as I work on them and feel comfortable releasing them in a professional matter.
+  
+
+<p align="center">
+
+## 💰 Korivash Donation Page
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/koirvash) 
+</p>
+
+<p align="center">
 
 
 
