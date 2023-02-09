@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+My Name is Korivash and i am a small time developer, Most of my projects are FiveM Related but i have been trying to expand into more stuff like discord bots and more.
+for any questions feel free to DM me on Discord @ Korivash#0001
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korivash&theme=dark&show_icons=true)
