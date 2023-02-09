@@ -19,7 +19,7 @@ Other then that most my projects are FiveM related but I have expanded into Disc
 <p align="center">
 
 ## 💰 Korivash Donation Page
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/koirvash) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/korivash) 
 </p>
 
 <p align="center">
