@@ -1,7 +1,6 @@
-### Welcome 👋
+### 🔥🔥 Welcome 🔥🔥
 
-My Name is Korivash and i am a small time developer, Most of my projects are FiveM Related but i have been trying to expand into more stuff like discord bots and more.
-for any questions feel free to DM me on Discord @ Korivash#0001
+✔️ My Name is Korivash and i am a small time self taught developer, Most my projects are FiveM Related but i have expanded into discord bots and more, i am always willing to learn to new things or hunt down bugs, you can contact me on discord for a fast response if needed @ Korivash#0001 
 
 
 
