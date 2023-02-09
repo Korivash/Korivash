@@ -1,5 +1,5 @@
 <p align="center">
-### 👨‍💻 Korivash - Discord: Korivash#0001
+ 👨‍💻 Korivash - Discord: Korivash#0001
 <p align="center">
 👉 My Name is Korivash and i am a small time self taught developer, I also do video editing on the side and upload them to my youtube channel.
 other then that most my projects are FiveM Related but i have expanded into discord bots and more, i am always willing to learn new things or hunt down bugs, you can contact me on discord for a fast response if needed.
