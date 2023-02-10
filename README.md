@@ -23,7 +23,7 @@ My name is Korivash and I am a small time self taught developer, I also do video
 Other then that most my projects are FiveM related but I have expanded into Discord bots and more. I am always willing to learn new things or hunt down bugs. Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/157313651001393152"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+<a href="https://discord.com/channels/@me/157313651001393152"> <img src="https://discord.c99.nl/widget/theme-2/157313651001393152.png" alt="contact mee">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
