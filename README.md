@@ -20,12 +20,12 @@ Other then that most my projects are FiveM related but I have expanded into Disc
 
 
 <p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> My current repositories are private as my projects consist of multiple developers and I am still learning.
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Most my repositories are private as my projects consist of multiple developers and I am still learning.
 
 
 
 <p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Public repositories will be coming soon as I work on them and feel comfortable releasing them in a professional matter.
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Public repositories are free resources with minor changes or discord bots i have developed.
   
 
 <br><br>
