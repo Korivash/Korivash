@@ -10,7 +10,7 @@
 <br>
 
 
-- Korivash (**Kor-E-Vash*)
+- Korivash (*Kor-E-Vash*)
 ---
 <br><br>
 
