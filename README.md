@@ -15,7 +15,7 @@
 <br>
 
 
-- Corwin van Velthuizen (**CorwinDev**)
+- Korivash (**Kor-E-Vash*)
 ---
 <br><br>
 
