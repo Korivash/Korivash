@@ -25,7 +25,7 @@ Other then that most my projects are FiveM related but I have expanded into Disc
 
 
 <p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Public repositories are free resources with minor changes or discord bots i have developed.
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Public repositories coming soon.
   
 
 <br><br>
