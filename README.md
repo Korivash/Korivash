@@ -15,8 +15,7 @@
 ---
 <br><br>
 
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>My name is Korivash and I am a small time self taught developer, I also do video editing on the side and upload them to my Youtube channel.
-Other then that most my projects are FiveM related but I have expanded into Discord bots and more. I am always willing to learn new things or hunt down bugs. </a>
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>My name is Korivash and I am a small time self taught developer, I also do video editing on the side and upload them to my Youtube channel. </a>
 <br><br>
 
 
@@ -39,8 +38,7 @@ Other then that most my projects are FiveM related but I have expanded into Disc
 
 - **Languages**:
 
-    ![Lua](https://img.shields.io/badge/lua-%3363BD.svg?style=for-the-badge&logo=LualogoColor=blue)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+   
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
