@@ -14,21 +14,17 @@
 ---
 <br><br>
 
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>My name is Korivash and I am a small time self taught developer, I also do video editing on the side and upload them to my Youtube channel. </a>
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>
+As a self-taught developer and avid gamer, I have a passion for building and creating things that enhance the gaming experience. Along with my development skills in Java and Node.js, I also enjoy making creative Discord servers for communities and streamers. I love working on projects that allow me to express my creativity and technical abilities while also providing value to others. Whether it's creating a custom bot for a Discord server or building a unique game server, I am always eager to take on new challenges and bring ideas to life. </a>
 <br><br>
 
-
 <p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Most my repositories are private as my projects consist of multiple developers and I am still learning.
-
-
-
-<p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> Public repositories coming soon.
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> 
+In my free time, I love to experiment with video editing. There's something about taking raw footage and turning it into a polished and creative final product that's really satisfying. Whether it's putting together clips from a recent trip or creating a fun montage, I enjoy exploring different editing techniques and discovering new ways to bring a story to life through video. It's a great way to unwind and tap into my creativity outside of work.
   
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
