@@ -51,10 +51,6 @@ In my free time, I love to experiment with video editing. There's something abou
 <p align="center">
   <a href="https://www.youtube.com/channel/UCb82szNb1VXwZWfrmaYtTbw?sub_confirmation=1">
   <a href="https://github.com/Korivash?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Korivash?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Korivash?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Korivash?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 <p align="center">
 
@@ -77,6 +73,14 @@ In my free time, I love to experiment with video editing. There's something abou
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
+
+<p align="center">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Korivash?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Korivash?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Korivash?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+<p align="center">
 
 <div align="center">
 
