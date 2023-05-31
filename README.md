@@ -1,8 +1,4 @@
 <p align="center">
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="center">
 
  <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
 
@@ -19,9 +15,6 @@ As a self-taught developer and avid gamer, I have a passion for building and cre
 <br><br>
 
 <p align="center">
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> 
-In my free time, I love to experiment with video editing. There's something about taking raw footage and turning it into a polished and creative final product that's really satisfying. Whether it's putting together clips from a recent trip or creating a fun montage, I enjoy exploring different editing techniques and discovering new ways to bring a story to life through video. It's a great way to unwind and tap into my creativity outside of work.
-  
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> 
