@@ -56,7 +56,7 @@ As a self-taught developer and avid gamer, I have a passion for building and cre
 <p align="center">
 
 ## 💰 Korivash Donation Page
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/korivash) 
+[![Patreon](https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/korivash)
 </p>
 
 <p align="center">
