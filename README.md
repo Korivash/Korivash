@@ -24,8 +24,6 @@ On top of my cybersecurity journey, I'm actively involved in assisting with Five
 
 Here on my GitHub page, I share my journey in cybersecurity and extend my knowledge and assistance to those interested in FiveM development. Together, we can delve into the intricacies of game modification, collaborate on exciting projects, and push the boundaries of what's possible within the FiveM realm. 🚀
 
-I'm committed to delivering valuable content, tutorials, and insights encompassing cybersecurity, FiveM development, and related topics. Whether you're a beginner looking for guidance or an experienced developer seeking to refine your skills, I'm here to provide resources that cater to various levels of expertise. Your feedback, questions, and suggestions will help shape the content and direction of our vibrant community. 📚
-
 Best regards,
 
 Korivash </a>
