@@ -26,10 +26,6 @@ Here on my GitHub page, I share my journey in cybersecurity and extend my knowle
 
 I'm committed to delivering valuable content, tutorials, and insights encompassing cybersecurity, FiveM development, and related topics. Whether you're a beginner looking for guidance or an experienced developer seeking to refine your skills, I'm here to provide resources that cater to various levels of expertise. Your feedback, questions, and suggestions will help shape the content and direction of our vibrant community. 📚
 
-As I continue to learn and expand my skills, I'm confident that our collective efforts will lead to remarkable achievements. By joining forces, we can empower ourselves with knowledge and create a strong support network for aspiring cybersecurity enthusiasts, FiveM developers, and creative minds within the gaming community. 🤝
-
-Thank you, each and every one of you, for being part of this incredible journey. Your support and active participation are truly appreciated. Let us embark on this adventure together, exploring the dynamic realms of cybersecurity, FiveM development, and beyond, and make a positive impact in our shared passions. ✨
-
 Best regards,
 
 Korivash </a>
