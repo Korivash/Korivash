@@ -1,17 +1,38 @@
 <p align="center">
 
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> 
 
 
 <br>
 
-
+<p align="center">
 - Korivash (*Kor-E-Vash*)
+<p align="center">
 ---
 <br><br>
 
  <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>
-As a self-taught developer and avid gamer, I have a passion for building and creating things that enhance the gaming experience. Along with my development skills in Java and Node.js, I also enjoy making creative Discord servers for communities and streamers. I love working on projects that allow me to express my creativity and technical abilities while also providing value to others. Whether it's creating a custom bot for a Discord server or building a unique game server, I am always eager to take on new challenges and bring ideas to life. </a>
+
+<p align="center">
+**About me**
+<p align="center">
+Allow me to introduce myself and share the diverse range of skills and knowledge that I bring to the GitHub community. 🌟
+
+My name is Korivash, and I'm a self-taught developer with a profound passion for cybersecurity. In today's ever-evolving digital landscape, protecting our online presence has become paramount. With unwavering dedication, I strive to deepen my understanding of cybersecurity, equipping myself with the tools to safeguard individuals and organizations against cyber threats. 🔒
+
+On top of my cybersecurity journey, I'm actively involved in assisting with FiveM development. For those unfamiliar, FiveM is a modification framework for the popular video game Grand Theft Auto V, enabling users to create custom multiplayer experiences. By being part of the FiveM development community, I can explore new horizons in game development while applying my programming skills and creativity. 🎮
+
+Here on my GitHub page, I share my journey in cybersecurity and extend my knowledge and assistance to those interested in FiveM development. Together, we can delve into the intricacies of game modification, collaborate on exciting projects, and push the boundaries of what's possible within the FiveM realm. 🚀
+
+I'm committed to delivering valuable content, tutorials, and insights encompassing cybersecurity, FiveM development, and related topics. Whether you're a beginner looking for guidance or an experienced developer seeking to refine your skills, I'm here to provide resources that cater to various levels of expertise. Your feedback, questions, and suggestions will help shape the content and direction of our vibrant community. 📚
+
+As I continue to learn and expand my skills, I'm confident that our collective efforts will lead to remarkable achievements. By joining forces, we can empower ourselves with knowledge and create a strong support network for aspiring cybersecurity enthusiasts, FiveM developers, and creative minds within the gaming community. 🤝
+
+Thank you, each and every one of you, for being part of this incredible journey. Your support and active participation are truly appreciated. Let us embark on this adventure together, exploring the dynamic realms of cybersecurity, FiveM development, and beyond, and make a positive impact in our shared passions. ✨
+
+Best regards,
+
+Korivash </a>
 <br><br>
 
 <p align="center">
