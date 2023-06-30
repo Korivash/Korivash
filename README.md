@@ -16,13 +16,11 @@
 <p align="center">
 **About me**
 <p align="center">
-Allow me to introduce myself and share the range of skills and knowledge I bring to the GitHub community. 🌟
+Hello there! I'm Korivash, a self-taught developer specializing in Discord bot development. I have a deep passion for crafting interactive experiences within the Discord ecosystem. With dedication and creativity, I explore the vast possibilities of building custom bots that enhance communication and engagement within communities. 🤖💬
 
-I'm Korivash, a self-taught developer with a passion for cybersecurity and FiveM development. In today's digital landscape, safeguarding our online presence is crucial. With dedication, I strive to deepen my understanding of cybersecurity, equipping myself with the tools to protect individuals and organizations against cyber threats. 🔒
+In addition to my expertise in Discord bot development, I also enjoy working on QBCore FiveM servers. The FiveM platform allows me to create unique multiplayer experiences in Grand Theft Auto V, and QBCore serves as the foundation for server development. By leveraging my programming skills and creativity, I strive to build immersive and captivating QBCore servers that bring virtual worlds to life. 🎮🌟
 
-Additionally, I actively contribute to the FiveM development community. FiveM is a modification framework for Grand Theft Auto V, enabling custom multiplayer experiences. Through my programming skills and creativity, I explore new horizons in game development. 🎮
-
-On my GitHub page, I share my cybersecurity journey and provide assistance to those interested in FiveM development. Together, we can delve into game modification, collaborate on exciting projects, and push the boundaries within the FiveM realm. 🚀
+On my GitHub page, you'll find a collection of my projects, showcasing my expertise in Discord bot development and QBCore FiveM server development. Whether you're interested in Discord bots or FiveM servers, I'm here to collaborate and support you on your journey. Let's connect, innovate, and create amazing experiences together! 🚀💡
 
 Best regards,
 
