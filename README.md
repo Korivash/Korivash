@@ -16,13 +16,13 @@
 <p align="center">
 **About me**
 <p align="center">
-Allow me to introduce myself and share the diverse range of skills and knowledge that I bring to the GitHub community. 🌟
+Allow me to introduce myself and share the range of skills and knowledge I bring to the GitHub community. 🌟
 
-My name is Korivash, and I'm a self-taught developer with a profound passion for cybersecurity. In today's ever-evolving digital landscape, protecting our online presence has become paramount. With unwavering dedication, I strive to deepen my understanding of cybersecurity, equipping myself with the tools to safeguard individuals and organizations against cyber threats. 🔒
+I'm Korivash, a self-taught developer with a passion for cybersecurity and FiveM development. In today's digital landscape, safeguarding our online presence is crucial. With dedication, I strive to deepen my understanding of cybersecurity, equipping myself with the tools to protect individuals and organizations against cyber threats. 🔒
 
-On top of my cybersecurity journey, I'm actively involved in assisting with FiveM development. For those unfamiliar, FiveM is a modification framework for the popular video game Grand Theft Auto V, enabling users to create custom multiplayer experiences. By being part of the FiveM development community, I can explore new horizons in game development while applying my programming skills and creativity. 🎮
+Additionally, I actively contribute to the FiveM development community. FiveM is a modification framework for Grand Theft Auto V, enabling custom multiplayer experiences. Through my programming skills and creativity, I explore new horizons in game development. 🎮
 
-Here on my GitHub page, I share my journey in cybersecurity and extend my knowledge and assistance to those interested in FiveM development. Together, we can delve into the intricacies of game modification, collaborate on exciting projects, and push the boundaries of what's possible within the FiveM realm. 🚀
+On my GitHub page, I share my cybersecurity journey and provide assistance to those interested in FiveM development. Together, we can delve into game modification, collaborate on exciting projects, and push the boundaries within the FiveM realm. 🚀
 
 Best regards,
 
