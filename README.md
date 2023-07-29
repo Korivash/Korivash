@@ -20,7 +20,6 @@ Hello there! I'm Korivash, a self-taught developer specializing in Discord bot d
 
 In addition to my expertise in Discord bot development, I also enjoy working on QBCore FiveM servers. The FiveM platform allows me to create unique multiplayer experiences in Grand Theft Auto V, and QBCore serves as the foundation for server development. By leveraging my programming skills and creativity, I strive to build immersive and captivating QBCore servers that bring virtual worlds to life. 🎮🌟
 
-On my GitHub page, you'll discover useful tools meticulously curated for server owners and Discord development. I am committed to finding and sharing top-notch resources that can enhance your server management experience and streamline your Discord development endeavors. 🚀💡
 
 Best regards,
 
