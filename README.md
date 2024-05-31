@@ -1,23 +1,28 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>
+  <img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="50px">
 </p>
 
 <h2 align="center">🌟 Welcome to Korivash's Hub 🌟</h2>
-<p align="center">Creator & Developer of Miko Radio | FiveM Enthusiast</p>
+<p align="center">Creator & Developer of Miko Radio | Developer Enthusiast</p>
 
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px>
+  <img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="50px">
 </p>
 
 ## About Me 🚀
 <p align="center">
-  Hello! I'm <b>Korivash</b> (pronounced Kor-E-Vash), a passionate and self-taught developer focused on creating dynamic and engaging experiences. My journey in tech revolves around two main areas:
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<p align="center">
+  Hello! I'm <b>Korivash</b> (pronounced Kor-E-Vash), a passionate and self-taught developer focused on creating dynamic and engaging experiences. My journey in tech revolves around multiple areas:
 </p>
 
 - **Discord Bot Development:** As the creator of Miko Radio, a free music bot for Discord, I specialize in crafting interactive and user-friendly bots that enhance community engagement.
-- **FiveM Contributions:** I'm also deeply involved in developing QBCore FiveM servers, creating unique multiplayer experiences in Grand Theft Auto V.
+- **Web Development:** I'm actively involved in building web applications, focusing on both front-end and back-end technologies.
+- **AI Research:** Exploring the exciting field of artificial intelligence to create innovative solutions and enhance existing technologies.
 
 <p align="center">
   <i>"Bringing ideas to life through code and creativity!"</i>
@@ -33,7 +38,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
-
 
 <p align="center">
   <b>Databases:</b><br>
@@ -79,6 +83,13 @@
   <a href="https://www.youtube.com/channel/UCb82szNb1VXwZWfrmaYtTbw?sub_confirmation=1">YouTube</a> |
   <a href="https://github.com/Korivash?tab=repositories&sort=stargazers">GitHub</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Korivash&label=PROFILE+VIEWS&style=flat-square&color=brightgreen&labelColor=000000">
+</p>
+
+
+
 
 
 
