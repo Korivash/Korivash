@@ -77,8 +77,8 @@ Hi, I’m **Korivash** (Kor-E-Vash) — a self-taught developer bringing **code 
 
 <p align="center">
   <a href="https://www.youtube.com/@Korivash"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://discord.gg/xvwCp4vTzH"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://twitter.com/korivash"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://discord.gg/Dj3jzb9f"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://twitter.com/real_korivash"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://github.com/Korivash"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
