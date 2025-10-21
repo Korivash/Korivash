@@ -143,27 +143,80 @@
 <h2 align="center">🎵 Featured Project: Miko Radio</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Servers-1000%2B-blue?style=for-the-badge" alt="Servers">
-  <img src="https://img.shields.io/badge/Users-10K%2B-purple?style=for-the-badge" alt="Users">
+  <a href="https://top.gg/bot/1176036435523022969">
+    <img src="https://top.gg/api/widget/1176036435523022969.svg" alt="Miko Radio">
+  </a>
 </p>
 
-<p align="center"><b>The Ultimate Discord Music Experience 🎶</b></p>
+<p align="center">
+  <a href="https://top.gg/bot/1176036435523022969">
+    <img src="https://img.shields.io/badge/Vote_on_Top.gg-%23FF3366.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Vote">
+  </a>
+  <a href="https://www.mikoradio.com/">
+    <img src="https://img.shields.io/badge/Visit_Website-%237A7ADB.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://discord.com/application-directory/1176036435523022969">
+    <img src="https://img.shields.io/badge/Add_to_Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Add Bot">
+  </a>
+</p>
 
-<p>Miko Radio is a feature-rich, free Discord music bot serving thousands of servers worldwide. Built with passion and precision, it delivers high-quality audio streaming with an intuitive user experience.</p>
+<p align="center"><b>🎶 The Ultimate Discord Music Experience 🎶</b></p>
+
+<p align="center">
+Miko Radio is a revolutionary Discord music bot delivering high-quality audio streaming with the cleanest user interface. Built with passion and precision, it serves thousands of servers worldwide with premium features—completely free.
+</p>
+
+<h3 align="center">✨ Key Features</h3>
 
 <table align="center">
   <tr>
-    <td align="center">🎵<br><b>24/7 Streaming</b><br>Always online music</td>
-    <td align="center">🔊<br><b>High-Quality Audio</b><br>Crystal clear sound</td>
-    <td align="center">📱<br><b>Easy Commands</b><br>Simple to use</td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/24/7_Streaming-%23DD2727.svg?style=for-the-badge" alt="24/7"><br>
+      <b>Always Online Music</b><br>
+      <sub>Uninterrupted playback with autoplay recommendations</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Multi--Platform-%231DB954.svg?style=for-the-badge" alt="Multi-Platform"><br>
+      <b>All Your Sources</b><br>
+      <sub>Spotify, Apple Music, YouTube, Deezer & more</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/High_Quality-%237A7ADB.svg?style=for-the-badge" alt="Quality"><br>
+      <b>Crystal Clear Audio</b><br>
+      <sub>Premium sound quality with advanced filters</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center">🎛️<br><b>Queue Management</b><br>Advanced controls</td>
-    <td align="center">🌐<br><b>Multi-Platform</b><br>YouTube, Spotify & more</td>
-    <td align="center">⚡<br><b>Fast & Reliable</b><br>99.9% uptime</td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Audio_Filters-%23FF6B6B.svg?style=for-the-badge" alt="Filters"><br>
+      <b>Music Filters</b><br>
+      <sub>8D Audio, Bass Boost, Nightcore & more</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/LastFM_Support-%23D51007.svg?style=for-the-badge" alt="LastFM"><br>
+      <b>LastFM Integration</b><br>
+      <sub>Auto-scrobble tracks & sync playlists</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Custom_Playlists-%234ECDC4.svg?style=for-the-badge" alt="Playlists"><br>
+      <b>Your Playlists</b><br>
+      <sub>Create & manage custom playlists easily</sub>
+    </td>
   </tr>
 </table>
+
+<h3 align="center">🎮 Extra Features</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮_Minecraft_Integration-Compatible-success?style=for-the-badge" alt="Minecraft">
+  <img src="https://img.shields.io/badge/🌍_Multi--Language-Supported-blue?style=for-the-badge" alt="Languages">
+  <img src="https://img.shields.io/badge/🎫_Ticket_System-Built--In-purple?style=for-the-badge" alt="Support">
+  <img src="https://img.shields.io/badge/😆_Emoji_Tools-Interactive-yellow?style=for-the-badge" alt="Emojis">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💖_100%25_Free_Forever!-7A7ADB?style=for-the-badge" alt="Free">
+</p>
 
 ---
 
@@ -188,23 +241,9 @@
 
 ---
 
-<h2 align="center">🎧 My Spotify</h2>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/1245553762?si=61d62544a45e4f8a">
-    <img src="https://img.shields.io/badge/Follow_Me_on_Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/1245553762?si=61d62544a45e4f8a">
-    <img src="https://novatorem-kappa-wine.vercel.app/api/spotify" alt="Spotify Playing">
-  </a>
-</p>
-
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@Korivash">
