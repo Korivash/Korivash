@@ -26,7 +26,7 @@ High-quality Discord music bot focused on stability, usability, and scale.
 
 - GitHub: https://github.com/Korivash
 - YouTube: https://www.youtube.com/@Korivash
-- Discord: https://discord.gg/Dj3jzb9f
+- Discord: https://discord.gg/JbQQTbH4hR
 - X (Twitter): https://twitter.com/real_korivash
 
 ## Support
