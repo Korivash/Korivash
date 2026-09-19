@@ -41,9 +41,19 @@ Multi-source playback (Spotify, Apple Music, Deezer, YouTube Music), 24/7 stream
 
 ---
 
+<div align="center">
+
+<img src="https://admin.korivash.com/github-stats/?username=Korivash&show_icons=true&hide_border=true&count_private=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" height="165" alt="GitHub stats" />
+<img src="https://admin.korivash.com/github-stats/top-langs?username=Korivash&layout=compact&hide_border=true&bg_color=05070d&title_color=ff2fa8&text_color=e8e8f0" height="165" alt="Top languages" />
+
+</div>
+
+---
+
 ### 💛 Support
 
 If you find my work useful, consider supporting through [Patreon](https://www.patreon.com/korivash) or [Ko-fi](https://ko-fi.com/korivash).
+
 
 
 
