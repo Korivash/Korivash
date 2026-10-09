@@ -194,12 +194,12 @@ Every agent has a `soul.md` (who it is), `memory.md` (what it learned), `task.md
 
 <br />
 
-<a href="https://github.com/Korivash/agent-console-public"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=agent-console-public&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="agent-console-public" /></a>
-<a href="https://github.com/Korivash/AutoGitPull"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=AutoGitPull&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="AutoGitPull" /></a>
-<a href="https://github.com/Korivash/FiveM-Error-Logs"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=FiveM-Error-Logs&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="FiveM-Error-Logs" /></a>
-<a href="https://github.com/Korivash/mySQL-Autobackup-script"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=mySQL-Autobackup-script&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="mySQL-Autobackup-script" /></a>
-<a href="https://github.com/Korivash/KeystoneMonitor"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=KeystoneMonitor&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="KeystoneMonitor" /></a>
-<a href="https://github.com/Korivash/PreyUI"><img src="https://admin.korivash.com/github-stats/pin?username=Korivash&repo=PreyUI&hide_border=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" alt="PreyUI" /></a>
+<a href="https://github.com/Korivash/agent-console-public"><img src="https://korivash.com/readme/pin-agent-console-public.svg" alt="agent-console-public" /></a>
+<a href="https://github.com/Korivash/AutoGitPull"><img src="https://korivash.com/readme/pin-AutoGitPull.svg" alt="AutoGitPull" /></a>
+<a href="https://github.com/Korivash/FiveM-Error-Logs"><img src="https://korivash.com/readme/pin-FiveM-Error-Logs.svg" alt="FiveM-Error-Logs" /></a>
+<a href="https://github.com/Korivash/mySQL-Autobackup-script"><img src="https://korivash.com/readme/pin-mySQL-Autobackup-script.svg" alt="mySQL-Autobackup-script" /></a>
+<a href="https://github.com/Korivash/KeystoneMonitor"><img src="https://korivash.com/readme/pin-KeystoneMonitor.svg" alt="KeystoneMonitor" /></a>
+<a href="https://github.com/Korivash/PreyUI"><img src="https://korivash.com/readme/pin-PreyUI.svg" alt="PreyUI" /></a>
 
 </div>
 
@@ -250,8 +250,8 @@ Every agent has a `soul.md` (who it is), `memory.md` (what it learned), `task.md
 
 <div align="center">
 
-<img src="https://admin.korivash.com/github-stats/?username=Korivash&show_icons=true&hide_border=true&count_private=true&bg_color=05070d&title_color=ff2fa8&icon_color=b44aff&text_color=e8e8f0" height="170" alt="GitHub stats" />
-<img src="https://admin.korivash.com/github-stats/top-langs?username=Korivash&layout=compact&hide_border=true&bg_color=05070d&title_color=ff2fa8&text_color=e8e8f0" height="170" alt="Top languages" />
+<img src="https://korivash.com/readme/gh-stats.svg" height="170" alt="GitHub stats" />
+<img src="https://korivash.com/readme/gh-langs.svg" height="170" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Korivash&hide_border=true&background=05070d&ring=ff2fa8&fire=b44aff&currStreakLabel=ff2fa8&sideLabels=e8e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=9a9ab0" alt="Contribution streak" />
 
