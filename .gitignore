@@ -1,0 +1,4 @@
+# generated at runtime on the VPS (served from https://korivash.com/readme/)
+out/
+# full-resolution source art (2-3 MB each); the committed web assets live in assets/
+source-art/
