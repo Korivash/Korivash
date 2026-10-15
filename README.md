@@ -165,7 +165,7 @@ A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D hi
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://korivash.com/assets/img/tile-rhythm-640.jpg" width="100%" alt="Miko Rhythm: a four-lane neon note highway" /><br />
+<img src="assets/miko-rhythm-tile.webp" width="100%" alt="Miko Rhythm key art: Miko above the neon MIKO RHYTHM logo" /><br />
 <b>Miko Rhythm</b><br />
 <sub>Four-lane DDR/ITG-style rhythm game heading to Steam: charts from real beat detection, latency calibration, practice mode, a 3D highway and custom arrow skins. Also a Discord Activity inside Miko Radio.</sub>
 </td>
