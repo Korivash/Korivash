@@ -128,6 +128,38 @@ Spotify, Apple Music, YouTube Music, Deezer, SoundCloud and Tidal playback, 20+ 
 
 <br />
 
+## 🎮 Miko Rhythm, coming to Steam
+
+<div align="center">
+
+<a href="https://store.steampowered.com/app/5450190/"><img src="assets/miko-rhythm-key.webp" width="100%" alt="Miko Rhythm key art: Miko pointing at the camera above the neon MIKO RHYTHM logo" /></a>
+
+<a href="https://store.steampowered.com/app/5450190/"><img src="https://img.shields.io/badge/Wishlist_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Wishlist Miko Rhythm on Steam" /></a>
+<img src="https://img.shields.io/badge/56_songs-224_charts-ff2fa8?style=for-the-badge" alt="56 songs, 224 charts" />
+<img src="https://img.shields.io/badge/93_outfits-Mix_%26_Match-b44aff?style=for-the-badge" alt="93 outfits plus Mix and Match" />
+
+</div>
+
+A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D highway (or the Classic flat view), and Miko, the cat-eared host from Miko Radio, dances, cheers and roasts your misses.
+
+- **56 songs, four charts each** (Easy to Expert, 92-209 BPM), mostly music made by me and Kittyvenom
+- **Dress up Miko**: 93 outfits plus Mix & Match tops and skirts, every piece recolorable
+- **Keyboard, controller or dance pad**, all rebindable, with audio calibration and Auto-Sync
+- **Practice Mode**, a **Daily Challenge**, a built-in **Chart Editor**, and **40 Steam achievements** with Cloud saves
+- Built with Electron + Three.js, charts built from beat tracking, tested every build on a real GPU by an AI agent crew
+
+<table>
+<tr>
+<td width="33%"><img src="assets/miko-rhythm-gameplay.webp" width="100%" alt="Neon 3D highway mid-combo with Miko dancing on the left" /></td>
+<td width="33%"><img src="assets/miko-rhythm-classic.webp" width="100%" alt="Classic flat view of the note lanes" /></td>
+<td width="33%"><img src="assets/miko-rhythm-songs.webp" width="100%" alt="Song select: the music wheel over a gothic moonlit city" /></td>
+</tr>
+</table>
+
+<sub>The Steam page is in Valve's review queue; the Wishlist link goes live as soon as it's approved.</sub>
+
+<br />
+
 ## 🚀 What I'm building
 
 <table>
