@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://korivash.com">
-  <img src="assets/hero.webp" width="100%" alt="Korivash - self-taught, self-hosted, since 2016. Discord bots for 19,900+ servers, Twitch tools, games and music." />
+  <img src="assets/hero.webp" width="100%" alt="Korivash - self-taught, self-hosted, since 2016. Discord bots for 19,900+ servers, Twitch tools, Miko Rhythm on Steam, an AI crew on one VPS. Space-station banner." />
 </a>
 
 <br />
