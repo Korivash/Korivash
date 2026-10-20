@@ -175,8 +175,8 @@ A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D hi
 <sub>AI agents (Claude, Codex, Gemini) with their own roles, memory and permissions that build, review and run my projects 24/7, with a live web hub, a Discord relay and a guardian watching the VPS.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://game.cutecatgirl.com"><img src="https://korivash.com/assets/img/kitties-2d-640.jpg" width="100%" alt="Kitty's Beachball Fantasy key art" /></a><br />
-<b><a href="https://game.cutecatgirl.com">Kitty's Beachball Fantasy</a></b><br />
+<a href="https://kittysbeachballfantasy.com"><img src="https://korivash.com/assets/img/kitties-2d-640.jpg" width="100%" alt="Kitty's Beachball Fantasy key art" /></a><br />
+<b><a href="https://kittysbeachballfantasy.com">Kitty's Beachball Fantasy</a></b><br />
 <sub>3D browser game built for streamer Kittyvenom: campaign, co-op, 2-10 player PvP, accounts, leaderboards and a coin shop. Also a Discord Activity.</sub>
 </td>
 </tr>
