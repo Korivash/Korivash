@@ -140,9 +140,9 @@ Spotify, Apple Music, YouTube Music, Deezer, SoundCloud and Tidal playback, 20+ 
 
 <br />
 
-<a href="https://github.com/Korivash/Korivash/raw/main/assets/miko-rhythm-trailer.mp4"><img src="assets/miko-rhythm-trailer-preview.webp" width="100%" alt="Miko Rhythm trailer preview: Miko dances beside the neon 3D highway while a MARVELOUS combo climbs past 150" /></a>
+<a href="https://korivash.com/media/miko-rhythm-trailer.mp4"><img src="assets/miko-rhythm-trailer-preview.webp" width="100%" alt="Miko Rhythm trailer preview: Miko dances beside the neon 3D highway while a MARVELOUS combo climbs past 150" /></a>
 
-<sub>▶ <a href="https://github.com/Korivash/Korivash/raw/main/assets/miko-rhythm-trailer.mp4"><b>Watch the trailer</b></a> (55 s, with sound)</sub>
+<sub>▶ <a href="https://korivash.com/media/miko-rhythm-trailer.mp4"><b>Watch the trailer</b></a> (55 s, with sound)</sub>
 
 </div>
 
