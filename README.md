@@ -120,7 +120,7 @@ Spotify, Apple Music, YouTube Music, Deezer, SoundCloud and Tidal playback, 20+ 
 | **24/7 + autoplay** | Keep Miko in voice when the queue ends and let smart autoplay keep the vibe going |
 | **Dashboard** | Web control panel at mikoradio.com: playback and volume, drag-to-reorder queue, playlist editor and import, role permissions, request channels |
 | **Personal** | Last.fm scrobbling, custom playlists, eleven painted now-playing card themes (Miko changes pose every song), full per-server translations |
-| **Activity** | Miko Rhythm runs as a Discord Activity inside the voice channel, synced to what the bot is playing |
+| **Activity** | Listen Together: a Discord Activity in the voice channel with the queue, search and a 3D Miko who dances to the song and reacts to listeners |
 | **Scale** | 10 sharded clusters, health endpoint, automatic shard recovery, public status page with 90-day uptime history |
 | **Premium** | User, Server and Lifetime tiers (Stripe, Patreon or Ko-fi). Everything core stays free and nothing is locked behind a vote |
 
@@ -173,7 +173,7 @@ A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D hi
 <td width="33%" align="center" valign="top">
 <img src="assets/miko-rhythm-tile.webp" width="100%" alt="Miko Rhythm key art: Miko above the neon MIKO RHYTHM logo" /><br />
 <b>Miko Rhythm</b><br />
-<sub>Four-lane DDR/ITG-style rhythm game heading to Steam: charts from real beat detection, latency calibration, practice mode, a 3D highway and custom arrow skins. Also a Discord Activity inside Miko Radio.</sub>
+<sub>Four-lane DDR/ITG-style rhythm game heading to Steam: charts from real beat detection, latency calibration, practice mode, a 3D highway and custom arrow skins.</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/Korivash/agent-console-public"><img src="https://korivash.com/assets/img/card-team-hub-640.jpg" width="100%" alt="Korivash Station: robots building a space station hub" /></a><br />
