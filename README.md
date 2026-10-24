@@ -138,6 +138,12 @@ Spotify, Apple Music, YouTube Music, Deezer, SoundCloud and Tidal playback, 20+ 
 <img src="https://img.shields.io/badge/56_songs-224_charts-ff2fa8?style=for-the-badge" alt="56 songs, 224 charts" />
 <img src="https://img.shields.io/badge/93_outfits-Mix_%26_Match-b44aff?style=for-the-badge" alt="93 outfits plus Mix and Match" />
 
+<br />
+
+<a href="https://github.com/Korivash/Korivash/raw/main/assets/miko-rhythm-trailer.mp4"><img src="assets/miko-rhythm-trailer-preview.webp" width="100%" alt="Miko Rhythm trailer preview: Miko dances beside the neon 3D highway while a MARVELOUS combo climbs past 150" /></a>
+
+<sub>▶ <a href="https://github.com/Korivash/Korivash/raw/main/assets/miko-rhythm-trailer.mp4"><b>Watch the trailer</b></a> (55 s, with sound)</sub>
+
 </div>
 
 A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D highway (or the Classic flat view), and Miko, the cat-eared host from Miko Radio, dances, cheers and roasts your misses.
@@ -156,7 +162,7 @@ A four-lane arrow rhythm game with a cute-goth heart. Notes ride up a neon 3D hi
 </tr>
 </table>
 
-<sub>The Steam page is in Valve's review queue; the Wishlist link goes live as soon as it's approved.</sub>
+<sub>The Steam page is live as <b>Coming Soon</b>, so the Wishlist button works now, and a free demo is on the way.</sub>
 
 <br />
 
