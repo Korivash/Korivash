@@ -237,7 +237,7 @@ Every agent has a `soul.md` (who it is), `memory.md` (what it learned), `task.md
 <a href="https://github.com/Korivash/FiveM-Error-Logs"><img src="https://korivash.com/readme/pin-FiveM-Error-Logs.svg" alt="FiveM-Error-Logs" /></a>
 <a href="https://github.com/Korivash/mySQL-Autobackup-script"><img src="https://korivash.com/readme/pin-mySQL-Autobackup-script.svg" alt="mySQL-Autobackup-script" /></a>
 <a href="https://github.com/Korivash/KeystoneMonitor"><img src="https://korivash.com/readme/pin-KeystoneMonitor.svg" alt="KeystoneMonitor" /></a>
-<a href="https://github.com/Korivash/PreyUI"><img src="https://korivash.com/readme/pin-PreyUI.svg" alt="PreyUI" /></a>
+<a href="https://github.com/Korivash/chatskins"><img src="https://korivash.com/readme/pin-chatskins.svg" alt="chatskins" /></a>
 
 </div>
 
